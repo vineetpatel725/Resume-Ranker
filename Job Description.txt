@@ -1,0 +1,63 @@
+Job Area:Engineering Group, Engineering Group > Systems Engineering
+
+                  General Summary
+
+                  Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+                    12+ years Software Engineering or related work experience.
+                    12+ years experience with Programming Language such as C, C++/ Python, etc                  
+
+                  Desired Skills And Aptitudes
+                    Strong theoretical understanding of model architectures of various object classification, object detection models, recommender systems, NLP, Text and voice processing models, 3D models
+                    Experience in creating new Neural NW architectures for different use cases and the use of correct datasets, achieving the desired target accuracy
+                    Forward looking attitude, analyse upcoming trends in neural NWs and technics
+                    Strong understanding of various model quantization techniques.
+                    Strong understanding of various model pruning and compression techniques.
+                    Strong in mathematical statistics, probability theory and Linear algebra related to Machine Learning / Deep Neural NWs
+                    Strong understanding in traditional Machine learning methods such as Linear & Logistic regression, SVM, Kernel methods, Decision trees, Bagging and Boasting techniques, etc. is desirable
+                    Understanding of performance and accuracy metrics for different class of neural NWs
+                    Background of HW architectures like GPUs, AI accelerators like TPUs will be a plus
+                    Strong development skills in C++ / Python
+                    Strong hands on expertise in Deep Learning frameworks such as Pytorch and TensorFlow
+                    Excellent communication skills (written and verbal) and team player
+
+                   Minimum Qualifications
+
+                  Additional Job Description
+                   
+                    Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+                    2+ years Software Engineering or related work experience.
+                    2+ years experience with Programming Language such as C, C++/ Python, etc.
+
+                  Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+                    12+ years Software Engineering or related work experience.
+                    12+ years experience with Programming Language such as C, C++/ Python, etc.
+                                      
+                   Minimum Qualifications
+                   
+                    Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+                    2+ years Software Engineering or related work experience.
+                    2+ years experience with Programming Language such as C, C++/ Python, etc.
+
+                  Education
+
+                  Minimum Qualifications
+
+                  Bachelors - Computer Science, Bachelors - Engineering, Bachelors - Information Systems
+
+                  Work Experiences
+
+                  7+ years of Systems engineering or related work experience.
+
+                  Skills
+
+                  Certifications:
+
+                  Machine Learning
+
+                  Education
+
+                  Preferred Qualifications
+
+                  Work Experiences
+
+                  2+ years experience working in a large matrixed organization. ,1+ years of work experience in a role requiring interaction with senior leadership (e.g., Director level and above).
