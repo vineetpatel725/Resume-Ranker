@@ -8,6 +8,8 @@
 ## Directory Structure
 
     
-    ├── Job Description.txt                     
-    ├── Resume Ranker.ipynb                     
-    └── Resume Ranking Data Set.csv               
+        
+    ├── Resume Ranker
+    │   ├── Job Description.txt   
+    |   ├── Resume Ranker.ipynb
+    │   └── Resume Ranking Data Set.csv            
